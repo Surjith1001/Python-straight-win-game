@@ -9,3 +9,5 @@ A 6 coins game 3 coins for each players black and white in a 3x3 game board.
 <img src="https://github.com/Surjith1001/Python-straight-win-game/assets/125909533/95949cf3-5b9d-4502-bd14-83d6361079f5"/>
 
 <img src="https://github.com/Surjith1001/Python-straight-win-game/assets/125909533/0f780e2f-43f1-47a2-8f16-5c2ea8833d09"/>
+
+<img src="https://github.com/Surjith1001/Python-straight-win-game/assets/125909533/9f22b839-f0a9-4bf1-aff3-c191cc6f11c6"/>
